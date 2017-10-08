@@ -1,6 +1,6 @@
 package leonxtp;
 
-import leonxtp.medium.ListNode;
+import leonxtp.medium.AddTwoNumbers.ListNode;
 
 public class utils {
 

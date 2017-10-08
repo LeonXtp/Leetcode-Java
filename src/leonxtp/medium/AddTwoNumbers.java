@@ -1,5 +1,8 @@
 package leonxtp.medium;
 
+/**
+ * https://leetcode.com/problems/add-two-numbers/description/
+ */
 public class AddTwoNumbers {
 
     public static void main(String args[]) {
@@ -70,6 +73,17 @@ public class AddTwoNumbers {
     private int[] getAddedValues(int v1, int v2, int v3) {
         return new int[]{v1 + v2 + v3 >= 10 ? v1 + v2 + v3 - 10 : v1 + v2 + v3
                 , v1 + v2 + v3 >= 10 ? 1 : 0};
+    }
+
+    public static class ListNode {
+
+        public int val;
+        public ListNode next;
+
+        public ListNode(int x) {
+            val = x;
+        }
+
     }
 
 }
