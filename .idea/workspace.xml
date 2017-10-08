@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c28f222-3833-425b-98ec-b89ec2b63f32" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leonxtp/medium/LengthOfLongestSubstring.java" afterPath="$PROJECT_DIR$/src/leonxtp/medium/LengthOfLongestSubstring.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +27,8 @@
       <file leaf-file-name="LengthOfLongestSubstring.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leonxtp/medium/LengthOfLongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
+            <state relative-caret-position="282">
+              <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -35,9 +37,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="220">
-                <caret line="7" column="135" lean-forward="false" selection-start-line="7" selection-start-column="135" selection-end-line="7" selection-end-column="135" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="120">
+                <caret line="5" column="144" lean-forward="true" selection-start-line="5" selection-start-column="144" selection-end-line="5" selection-end-column="144" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -326,12 +328,12 @@
       <updated>1507432260878</updated>
       <workItem from="1507432262163" duration="591000" />
       <workItem from="1507433004427" duration="8567000" />
-      <workItem from="1507463016617" duration="4747000" />
+      <workItem from="1507463016617" duration="5341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13905000" />
+    <option name="totallyTimeSpent" value="14499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="110" y="23" width="1230" height="790" extended-state="0" />
@@ -345,7 +347,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13690476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -470,17 +472,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leonxtp/medium/LengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="282">
+          <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="220">
-            <caret line="7" column="135" lean-forward="false" selection-start-line="7" selection-start-column="135" selection-end-line="7" selection-end-column="135" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="144" lean-forward="true" selection-start-line="5" selection-start-column="144" selection-end-line="5" selection-end-column="144" />
             <folding />
           </first_editor>
           <second_editor />

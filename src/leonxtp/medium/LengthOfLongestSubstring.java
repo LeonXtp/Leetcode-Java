@@ -22,13 +22,13 @@ public class LengthOfLongestSubstring {
             previousStr = s.substring(indexStart, indexEnd);
             if (previousStr.contains(currStr)) {
                 int currentLength = indexEnd - indexStart;
-                maxLength = currentLength > maxLength ? currentLength : maxLength;
+                maxLength = Math.max(currentLength, maxLength);
                 indexStart += previousStr.indexOf(currStr) + 1;
             }
             indexEnd++;
         }
         int currentLength = indexEnd - indexStart;
-        maxLength = currentLength > maxLength ? currentLength : maxLength;
+        maxLength = Math.max(currentLength, maxLength);
         return maxLength;
     }
 }
