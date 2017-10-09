@@ -26,7 +26,6 @@ public class L007_ReverseInteger {
         try {
             return Integer.valueOf(rsx);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
             return 0;
         }
     }

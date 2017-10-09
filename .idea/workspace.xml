@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c28f222-3833-425b-98ec-b89ec2b63f32" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leonxtp/easy/L007_ReverseInteger.java" afterPath="$PROJECT_DIR$/src/leonxtp/easy/L007_ReverseInteger.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="340">
-                <caret line="8" column="237" lean-forward="false" selection-start-line="8" selection-start-column="237" selection-end-line="8" selection-end-column="237" />
+                <caret line="8" column="238" lean-forward="true" selection-start-line="8" selection-start-column="238" selection-end-line="8" selection-end-column="238" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,21 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="L007_ReverseInteger.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="L007_ReverseInteger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leonxtp/easy/L007_ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leonxtp/utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-99">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="552">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -366,12 +357,12 @@
       <workItem from="1507432262163" duration="591000" />
       <workItem from="1507433004427" duration="8567000" />
       <workItem from="1507463016617" duration="8096000" />
-      <workItem from="1507559423561" duration="2770000" />
+      <workItem from="1507559423561" duration="2918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20024000" />
+    <option name="totallyTimeSpent" value="20172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="110" y="23" width="1230" height="790" extended-state="0" />
@@ -520,22 +511,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leonxtp/easy/L007_ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="340">
-            <caret line="8" column="237" lean-forward="false" selection-start-line="8" selection-start-column="237" selection-end-line="8" selection-end-column="237" />
+            <caret line="8" column="238" lean-forward="true" selection-start-line="8" selection-start-column="238" selection-end-line="8" selection-end-column="238" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leonxtp/easy/L007_ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
