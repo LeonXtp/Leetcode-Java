@@ -1,10 +1,10 @@
 package leonxtp.medium;
 
-public class LengthOfLongestSubstring {
+public class L003_LengthOfLongestSubstring {
 
 
     public static void main(String args[]) {
-        LengthOfLongestSubstring test = new LengthOfLongestSubstring();
+        L003_LengthOfLongestSubstring test = new L003_LengthOfLongestSubstring();
         int result = test.lengthOfLongestSubstring("abcabcbbabcdefgbb");
         System.out.println(result);
     }

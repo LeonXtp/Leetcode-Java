@@ -3,7 +3,7 @@ package leonxtp.medium;
 /**
  * https://leetcode.com/problems/add-two-numbers/description/
  */
-public class AddTwoNumbers {
+public class L002_AddTwoNumbers {
 
     public static void main(String args[]) {
         ListNode l1 = new ListNode(5);
@@ -27,7 +27,7 @@ public class AddTwoNumbers {
 //        l2.next.next.next.next.next.next.next = new ListNode(0);
 //        l2.next.next.next.next.next.next.next.next = new ListNode(5);
 
-        AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
+        L002_AddTwoNumbers addTwoNumbers = new L002_AddTwoNumbers();
 
         ListNode result = addTwoNumbers.addTwoNumbers(l1, l2);
         System.out.println(result.val + ", ");
