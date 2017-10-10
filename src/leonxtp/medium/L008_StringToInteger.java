@@ -7,14 +7,14 @@ package leonxtp.medium;
  * "-"
  * " -10a992"
  * "2147483648"--> 2147483647
- *
+ * <p>
  * "-2147483647" "" "9223372036854775809" "1" "2147483648" "+-2" "  -0012a42" "    010"
  */
 public class L008_StringToInteger {
 
     public static void main(String args[]) {
         L008_StringToInteger test = new L008_StringToInteger();
-        System.out.println(test.myAtoi("2147483648"));
+        System.out.println(test.myAtoi("+-2"));
     }
 
     public int myAtoi(String str) {
@@ -51,7 +51,7 @@ public class L008_StringToInteger {
         }
 
         String result = sb.toString();
-        if (result.length() < 19) {
+        if (result.length() < 12) {
             try {
                 if (Long.valueOf(result) < Integer.MIN_VALUE) {
                     return Integer.MIN_VALUE;
