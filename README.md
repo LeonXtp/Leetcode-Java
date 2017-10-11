@@ -10,7 +10,7 @@ Just make leetcode my fun, accomplish first, then efficiency. All of the submiss
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[54ms](https://github.com/LeonXtp/Leetcode-Java/blob/3df6dcd81aea461fee0f6ad413a39865b267228b/src/leonxtp/medium/L006_ZigZagConversion.java)|64.09%|2017.10.10|其实这道应该算easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[46ms](https://github.com/LeonXtp/Leetcode-Java/blob/dd8a4f718965f509304a9b029b427b5482fd3393/src/leonxtp/easy/L007_ReverseInteger.java)|25.82%|2017.10.10|之后再考虑不用String Api实现|
 |8|[StringToInteger](https://leetcode.com/problems/string-to-integer-atoi/description/)|[45ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L008_StringToInteger.java)|34.35%|2017.10.10|这道题太多异常输入了|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[187ms]()|93.16%|2017.10.11|一看180多ms还以为很慢呢|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[187ms](https://github.com/LeonXtp/Leetcode-Java/blob/6a2ff7ce1bfb803f91ecdec0b7d76cd5b72305f8/src/leonxtp/easy/L009_PalindromeNumber.java)|93.16%|2017.10.11|一看180多ms还以为很慢呢|
 
 **Useful Resources**
 ---
