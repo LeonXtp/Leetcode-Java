@@ -14,7 +14,7 @@ public class L008_StringToInteger {
 
     public static void main(String args[]) {
         L008_StringToInteger test = new L008_StringToInteger();
-        System.out.println(test.myAtoi("+-2"));
+        System.out.println(test.myAtoi("++1"));
     }
 
     public int myAtoi(String str) {
@@ -23,19 +23,18 @@ public class L008_StringToInteger {
             return 0;
         }
 
+        str = str.trim();
+
         StringBuffer sb = new StringBuffer();
         char ch;
-        int numberStartIndex = 0;
+        boolean hasSign = false;
         for (int i = 0; i < str.length(); i++) {
 
             ch = str.charAt(i);
-            if (ch == 32 && numberStartIndex == i) {
-                numberStartIndex++;
-                continue;
-            }
             if ((ch == 43 || ch == 45)) {
-                if (numberStartIndex == i) {
+                if (!hasSign) {
                     sb.append(ch);
+                    hasSign = true;
                     continue;
                 } else {
                     break;
