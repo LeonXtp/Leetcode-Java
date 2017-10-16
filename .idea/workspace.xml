@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c28f222-3833-425b-98ec-b89ec2b63f32" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java" afterPath="$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java" />
-    </list>
+    <list default="true" id="1c28f222-3833-425b-98ec-b89ec2b63f32" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -375,12 +373,12 @@
       <workItem from="1507644356992" duration="16860000" />
       <workItem from="1507732193558" duration="4101000" />
       <workItem from="1508026388136" duration="1430000" />
-      <workItem from="1508035506604" duration="1170000" />
+      <workItem from="1508035506604" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55302000" />
+    <option name="totallyTimeSpent" value="55347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

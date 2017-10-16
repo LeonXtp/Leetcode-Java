@@ -16,6 +16,9 @@ public class L012_IntegerToRoman {
 
         StringBuffer sb = new StringBuffer();
 
+        int mod = 10;
+        
+
 
         return "";
     }
