@@ -39,8 +39,19 @@ public class L012_IntegerToRoman {
     //1437  MCDXXXVII
     private String getRomanNumber(int number, int coefficient) {
 
+        StringBuilder sb = new StringBuilder();
         switch (coefficient) {
             case 1:
+                if (number <= 3) {
+                    while (number > 0) {
+                        sb.append("I");
+                        number--;
+                    }
+                } else if (3 < number && number <= 8) {
+                    
+                } else {
+
+                }
                 break;
             case 10:
                 break;
