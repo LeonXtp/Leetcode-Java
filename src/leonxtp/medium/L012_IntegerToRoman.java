@@ -1,5 +1,7 @@
 package leonxtp.medium;
 
+import sun.jvm.hotspot.debugger.win32.coff.COFFFile;
+
 /**
  * 1、3、5、7、9
  * 13、17
@@ -7,7 +9,7 @@ package leonxtp.medium;
 public class L012_IntegerToRoman {
 
     private static final String[] ROMANS = {"I", "II", "III", "IV", "V", "VI", "VII"
-    ,"VIII", "IX", "X"};
+            , "VIII", "IX", "X"};
 
     public static void main(String args[]) {
 
@@ -35,26 +37,17 @@ public class L012_IntegerToRoman {
     }
 
     //1437  MCDXXXVII
-    private String getRomanNumber(int number) {
-        if (number < 10) {
-            switch (number) {
-                case 1:
-                    return ROMANS[0];
-                case 2:
-                    return ROMANS[1];
-                case 3:
-                    return ROMANS[2];
-                case 4:
-                    return ROMANS[3];
-                case 5:
-                    return ROMANS[4];
-                case 6:
-                    return ROMANS[5];
-                case 7:
-                    return ROMANS[6];
-                default:
-                    break;
-            }
+    private String getRomanNumber(int number, int coefficient) {
+
+        switch (coefficient) {
+            case 1:
+                break;
+            case 10:
+                break;
+            case 100:
+                break;
+            case 1000:
+                break;
         }
 
         return "";

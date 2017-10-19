@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c28f222-3833-425b-98ec-b89ec2b63f32" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java" afterPath="$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="L012_IntegerToRoman.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="349">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -379,12 +378,12 @@
       <workItem from="1508035506604" duration="1215000" />
       <workItem from="1508171270277" duration="19000" />
       <workItem from="1508212121720" duration="334000" />
-      <workItem from="1508426202070" duration="1715000" />
+      <workItem from="1508426202070" duration="1904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57415000" />
+    <option name="totallyTimeSpent" value="57604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leonxtp/medium/L012_IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="349">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
           <folding />
         </state>
       </provider>
