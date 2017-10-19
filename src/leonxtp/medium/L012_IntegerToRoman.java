@@ -8,8 +8,17 @@ import sun.jvm.hotspot.debugger.win32.coff.COFFFile;
  */
 public class L012_IntegerToRoman {
 
-    private static final String[] ROMANS = {"I", "II", "III", "IV", "V", "VI", "VII"
-            , "VIII", "IX", "X"};
+    private static final String[] ROMANS_1 = {"I", "II", "III", "IV", "V", "VI", "VII"
+            , "VIII", "IX"};
+
+    private static final String[] ROMANS_10 = {"I", "II", "III", "IV", "V", "VI", "VII"
+            , "VIII", "IX"};
+
+    private static final String[] ROMANS_100 = {"I", "II", "III", "IV", "V", "VI", "VII"
+            , "VIII", "IX"};
+
+    private static final String[] ROMANS_1000 = {"I", "II", "III", "IV", "V", "VI", "VII"
+            , "VIII", "IX"};
 
     public static void main(String args[]) {
 
@@ -48,7 +57,7 @@ public class L012_IntegerToRoman {
                         number--;
                     }
                 } else if (3 < number && number <= 8) {
-                    
+
                 } else {
 
                 }
