@@ -14,6 +14,7 @@ Leading proportion below 50% should be optimized.
 |8|[StringToInteger](https://leetcode.com/problems/string-to-integer-atoi/description/)|[45ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L008_StringToInteger.java)|<del>34.35%</del>|2017.10.10|这道题太多异常输入了|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[187ms](https://github.com/LeonXtp/Leetcode-Java/blob/6a2ff7ce1bfb803f91ecdec0b7d76cd5b72305f8/src/leonxtp/easy/L009_PalindromeNumber.java)|**93.16%**|2017.10.11|一看180多ms还以为很慢呢|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[10ms]()|51.95%|2017.10.11|O(n^2)的算法直接TLE|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[90ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L012_IntegerToRoman.java)|85.80%|2017.10.19|想太通用反而无法做到更优|
 
 **Useful Resources**
 ---
