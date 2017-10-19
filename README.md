@@ -15,7 +15,7 @@ Leading proportion below 50% should be optimized.
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[187ms](https://github.com/LeonXtp/Leetcode-Java/blob/6a2ff7ce1bfb803f91ecdec0b7d76cd5b72305f8/src/leonxtp/easy/L009_PalindromeNumber.java)|**93.16%**|2017.10.11|一看180多ms还以为很慢呢|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[10ms]()|51.95%|2017.10.11|O(n^2)的算法直接TLE|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[90ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L012_IntegerToRoman.java)|**85.80%**|2017.10.19|想太通用反而无法做到更优|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[101ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L012_IntegerToRoman.java)|**85.80%**|2017.10.19|想太通用反而无法做到更优|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[101ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/easy/L013_RomanToInteger.java)|**52.97%**|2017.10.19|不稳定，待优化|
 
 **Useful Resources**
 ---
