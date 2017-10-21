@@ -16,6 +16,7 @@ Leading proportion below 50% should be optimized.
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[10ms]()|51.95%|2017.10.11|O(n^2)的算法直接TLE|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[90ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/medium/L012_IntegerToRoman.java)|**85.80%**|2017.10.19|想太通用反而无法做到更优|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[94ms](https://github.com/LeonXtp/Leetcode-Java/blob/master/src/leonxtp/easy/L013_RomanToInteger.java)|78.00%|2017.10.19|不稳定，待优化|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[11ms](https://github.com/LeonXtp/Leetcode-Java/blob/b6c65ff6716f7e40eafd06e2ae65d6d39e0c2fb1/src/leonxtp/easy/L014_LongestCommonPrefix.java)|55.07%|2017.10.21||
 
 **Useful Resources**
 ---
